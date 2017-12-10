@@ -1,7 +1,7 @@
 {
-  "name": "moda-d",
+  "name": "gdgMailer",
   "version": "0.0.0",
-  "description": "gdg module 4",
+  "description": "gdg module for mailgun services",
   "homepage": "",
   "author": {
     "name": "linebreaker",
@@ -13,7 +13,8 @@
   ],
   "main": "lib/index.js",
   "keywords": [
-    ""
+    "mailgun",
+    "gdg"
   ],
   "devDependencies": {
     "coveralls": "^2.13.1",
@@ -66,18 +67,15 @@
       "prettier"
     ]
   },
-  "repository": "gdg/moda-d",
+  "repository": "gdg/gdgMailer",
   "jest": {
     "testEnvironment": "node"
   },
   "private": true,
   "dependencies": {
-    "accounting-js": "^1.1.1",
     "dotenv": "^4.0.0",
     "file-type": "^7.2.0",
     "mailgun-js": "^0.13.1",
-    "mkdirp": "^0.5.1",
-    "scraper-watcher": "0.0.1",
-    "x-ray": "^2.3.2"
+    "mkdirp": "^0.5.1"
   }
 }
