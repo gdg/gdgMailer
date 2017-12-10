@@ -1,5 +1,5 @@
 {
-  "name": "gdgMailer",
+  "name": "@gdg/gdgMailer",
   "version": "0.0.0",
   "description": "gdg module for mailgun services",
   "homepage": "",
