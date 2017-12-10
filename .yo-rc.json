@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "linebreaker",
+      "authorEmail": "linebreaker@users.noreply.github.com",
+      "authorUrl": "dev.gdg.io"
+    }
+  }
+}
