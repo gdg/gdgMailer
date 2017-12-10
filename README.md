@@ -7,19 +7,19 @@ GDG™ module for Mailgun® services.
 ## Installation
 
 ```sh
-$ npm install --save moda-d
+$ npm i @gdg/gdgmailer
 ```
 
 ## Usage
 
 ```js
-const modaD = require('moda-d');
+const gdgMailer = require('gdgmailer');
 
-modaD('Rainbow');
+gdgMailer();
 ```
 ## License
 
- © [linebreaker](dev.gdg.io)
+ © GDG™ [linebreaker](dev.gdg.io)
 
 
 [npm-image]: https://badge.fury.io/js/moda-d.svg
