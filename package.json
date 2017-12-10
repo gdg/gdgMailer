@@ -71,7 +71,6 @@
   "jest": {
     "testEnvironment": "node"
   },
-  "private": true,
   "dependencies": {
     "dotenv": "^4.0.0",
     "file-type": "^7.2.0",
