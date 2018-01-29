@@ -23,7 +23,7 @@ gdgMailer();
 
 
 [npm-image]: https://badge.fury.io/js/moda-d.svg
-[npm-url]: https://npmjs.org/package/moda-d
+[npm-url]: https://npmjs.org/package/gdgmailer
 [travis-image]: https://travis-ci.org/gdg/moda-d.svg?branch=master
 [travis-url]: https://travis-ci.org/gdg/moda-d
 [daviddm-image]: https://david-dm.org/gdg/moda-d.svg?theme=shields.io
